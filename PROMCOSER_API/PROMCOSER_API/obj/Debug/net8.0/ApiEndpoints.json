@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "PROMCOSER_API.Controllers.ParteDiarioController",
+    "Method": "GetAll",
+    "RelativePath": "api/ParteDiario/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

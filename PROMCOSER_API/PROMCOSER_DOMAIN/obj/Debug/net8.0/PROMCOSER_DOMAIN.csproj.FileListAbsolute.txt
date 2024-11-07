@@ -1,0 +1,15 @@
+C:\Users\herna\Source\Repos\ProyectoPROMCOSERWeb\PROMCOSER_API\PROMCOSER_DOMAIN\bin\Debug\net8.0\PROMCOSER_DOMAIN.deps.json
+C:\Users\herna\Source\Repos\ProyectoPROMCOSERWeb\PROMCOSER_API\PROMCOSER_DOMAIN\bin\Debug\net8.0\PROMCOSER_DOMAIN.runtimeconfig.json
+C:\Users\herna\Source\Repos\ProyectoPROMCOSERWeb\PROMCOSER_API\PROMCOSER_DOMAIN\bin\Debug\net8.0\PROMCOSER_DOMAIN.dll
+C:\Users\herna\Source\Repos\ProyectoPROMCOSERWeb\PROMCOSER_API\PROMCOSER_DOMAIN\bin\Debug\net8.0\PROMCOSER_DOMAIN.pdb
+C:\Users\herna\Source\Repos\ProyectoPROMCOSERWeb\PROMCOSER_API\PROMCOSER_DOMAIN\obj\Debug\net8.0\PROMCOSER_DOMAIN.csproj.AssemblyReference.cache
+C:\Users\herna\Source\Repos\ProyectoPROMCOSERWeb\PROMCOSER_API\PROMCOSER_DOMAIN\obj\Debug\net8.0\PROMCOSER_DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herna\Source\Repos\ProyectoPROMCOSERWeb\PROMCOSER_API\PROMCOSER_DOMAIN\obj\Debug\net8.0\PROMCOSER_DOMAIN.AssemblyInfoInputs.cache
+C:\Users\herna\Source\Repos\ProyectoPROMCOSERWeb\PROMCOSER_API\PROMCOSER_DOMAIN\obj\Debug\net8.0\PROMCOSER_DOMAIN.AssemblyInfo.cs
+C:\Users\herna\Source\Repos\ProyectoPROMCOSERWeb\PROMCOSER_API\PROMCOSER_DOMAIN\obj\Debug\net8.0\PROMCOSER_DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\herna\Source\Repos\ProyectoPROMCOSERWeb\PROMCOSER_API\PROMCOSER_DOMAIN\obj\Debug\net8.0\PROMCOSER_DOMAIN.sourcelink.json
+C:\Users\herna\Source\Repos\ProyectoPROMCOSERWeb\PROMCOSER_API\PROMCOSER_DOMAIN\obj\Debug\net8.0\PROMCOSER_DOMAIN.dll
+C:\Users\herna\Source\Repos\ProyectoPROMCOSERWeb\PROMCOSER_API\PROMCOSER_DOMAIN\obj\Debug\net8.0\refint\PROMCOSER_DOMAIN.dll
+C:\Users\herna\Source\Repos\ProyectoPROMCOSERWeb\PROMCOSER_API\PROMCOSER_DOMAIN\obj\Debug\net8.0\PROMCOSER_DOMAIN.pdb
+C:\Users\herna\Source\Repos\ProyectoPROMCOSERWeb\PROMCOSER_API\PROMCOSER_DOMAIN\obj\Debug\net8.0\PROMCOSER_DOMAIN.genruntimeconfig.cache
+C:\Users\herna\Source\Repos\ProyectoPROMCOSERWeb\PROMCOSER_API\PROMCOSER_DOMAIN\obj\Debug\net8.0\ref\PROMCOSER_DOMAIN.dll

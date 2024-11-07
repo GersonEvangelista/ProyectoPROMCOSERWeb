@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PROMCOSER_API.props" />
+</Project>
