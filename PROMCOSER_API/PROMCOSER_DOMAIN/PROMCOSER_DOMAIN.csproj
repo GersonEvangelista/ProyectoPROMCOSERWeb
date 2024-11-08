@@ -16,14 +16,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Core\DTO\" />
-    <Folder Include="Core\Entities\" />
     <Folder Include="Core\Interfaces\" />
     <Folder Include="Core\Settings\" />
     <Folder Include="Core\Services\" />
     <Folder Include="Infrastructure\Data\" />
     <Folder Include="Infrastructure\Shared\" />
-    <Folder Include="Infrastructure\Repositories\" />
   </ItemGroup>
 
 </Project>

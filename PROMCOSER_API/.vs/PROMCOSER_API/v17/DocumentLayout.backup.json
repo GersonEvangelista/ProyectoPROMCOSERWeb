@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|c:\\users\\nilmar\\source\\repos\\nueva carpeta\\promcoser_api\\promcoser_api\\controllers\\maquinariacontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|solutionrelative:promcoser_api\\controllers\\maquinariacontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|c:\\users\\nilmar\\source\\repos\\nueva carpeta\\promcoser_api\\promcoser_domain\\infrastructure\\repositories\\maquinariarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|solutionrelative:promcoser_domain\\infrastructure\\repositories\\maquinariarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|c:\\users\\nilmar\\source\\repos\\nueva carpeta\\promcoser_api\\promcoser_domain\\core\\dto\\maquinariadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|solutionrelative:promcoser_domain\\core\\dto\\maquinariadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|c:\\users\\nilmar\\source\\repos\\nueva carpeta\\promcoser_api\\promcoser_domain\\core\\entities\\maquinaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|solutionrelative:promcoser_domain\\core\\entities\\maquinaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|c:\\users\\nilmar\\source\\repos\\nueva carpeta\\promcoser_api\\promcoser_domain\\infrastructure\\repositories\\imaquinariarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|solutionrelative:promcoser_domain\\infrastructure\\repositories\\imaquinariarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|c:\\users\\nilmar\\source\\repos\\nueva carpeta\\promcoser_api\\promcoser_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|solutionrelative:promcoser_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Data\\PromcoserContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PROMCOSER_DOMAIN\\Data\\PromcoserContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|c:\\users\\nilmar\\source\\repos\\nueva carpeta\\promcoser_api\\promcoser_domain\\core\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|solutionrelative:promcoser_domain\\core\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|c:\\users\\nilmar\\source\\repos\\nueva carpeta\\promcoser_api\\promcoser_domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|solutionrelative:promcoser_domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaquinariaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Core\\DTO\\MaquinariaDTO.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_DOMAIN\\Core\\DTO\\MaquinariaDTO.cs",
+              "ToolTip": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Core\\DTO\\MaquinariaDTO.cs",
+              "RelativeToolTip": "PROMCOSER_DOMAIN\\Core\\DTO\\MaquinariaDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:34:25.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_API\\Program.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_API\\Program.cs",
+              "ToolTip": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_API\\Program.cs",
+              "RelativeToolTip": "PROMCOSER_API\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:52:39.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaquinariaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Infrastructure\\Repositories\\MaquinariaRepository.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_DOMAIN\\Infrastructure\\Repositories\\MaquinariaRepository.cs",
+              "ToolTip": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Infrastructure\\Repositories\\MaquinariaRepository.cs",
+              "RelativeToolTip": "PROMCOSER_DOMAIN\\Infrastructure\\Repositories\\MaquinariaRepository.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAwwGQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:05:03.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaquinariaControler.cs",
+              "DocumentMoniker": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_API\\Controllers\\MaquinariaControler.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_API\\Controllers\\MaquinariaControler.cs",
+              "ToolTip": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_API\\Controllers\\MaquinariaControler.cs*",
+              "RelativeToolTip": "PROMCOSER_API\\Controllers\\MaquinariaControler.cs*",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAwGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:25:45.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMaquinariaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Infrastructure\\Repositories\\IMaquinariaRepository.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_DOMAIN\\Infrastructure\\Repositories\\IMaquinariaRepository.cs",
+              "ToolTip": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Infrastructure\\Repositories\\IMaquinariaRepository.cs",
+              "RelativeToolTip": "PROMCOSER_DOMAIN\\Infrastructure\\Repositories\\IMaquinariaRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvw0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:24:08.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Maquinaria.cs",
+              "DocumentMoniker": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Core\\Entities\\Maquinaria.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_DOMAIN\\Core\\Entities\\Maquinaria.cs",
+              "ToolTip": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Core\\Entities\\Maquinaria.cs",
+              "RelativeToolTip": "PROMCOSER_DOMAIN\\Core\\Entities\\Maquinaria.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:06:46.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Core\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_DOMAIN\\Core\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Core\\Entities\\Cliente.cs",
+              "RelativeToolTip": "PROMCOSER_DOMAIN\\Core\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:04:14.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PromcoserContext.cs",
+              "DocumentMoniker": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Data\\PromcoserContext.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_DOMAIN\\Data\\PromcoserContext.cs",
+              "ToolTip": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Data\\PromcoserContext.cs",
+              "RelativeToolTip": "PROMCOSER_DOMAIN\\Data\\PromcoserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:04:11.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Class1.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_DOMAIN\\Class1.cs",
+              "ToolTip": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Class1.cs",
+              "RelativeToolTip": "PROMCOSER_DOMAIN\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:31:02.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

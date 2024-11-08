@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\My Drive\\ESAN\\Ciclos\\Oficial\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Project\\PROMCOSER_API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj": {}
+    "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj": {}
   },
   "projects": {
-    "G:\\My Drive\\ESAN\\Ciclos\\Oficial\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Project\\PROMCOSER_API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj": {
+    "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\My Drive\\ESAN\\Ciclos\\Oficial\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Project\\PROMCOSER_API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj",
+        "projectUniqueName": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj",
         "projectName": "PROMCOSER_DOMAIN",
-        "projectPath": "G:\\My Drive\\ESAN\\Ciclos\\Oficial\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Project\\PROMCOSER_API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj",
-        "packagesPath": "C:\\Users\\Gerson\\.nuget\\packages\\",
-        "outputPath": "G:\\My Drive\\ESAN\\Ciclos\\Oficial\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Project\\PROMCOSER_API\\PROMCOSER_DOMAIN\\obj\\",
+        "projectPath": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj",
+        "packagesPath": "C:\\Users\\NILMAR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NILMAR\\source\\repos\\Nueva carpeta\\PROMCOSER_API\\PROMCOSER_DOMAIN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NILMAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -76,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
