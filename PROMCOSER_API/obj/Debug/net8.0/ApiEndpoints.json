@@ -1,0 +1,206 @@
+[
+  {
+    "ContainingType": "PROMCOSER_API.Controllers.DetalleParteDiarioController",
+    "Method": "GetDetalles",
+    "RelativePath": "api/DetalleParteDiario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PROMCOSER_API.Controllers.DetalleParteDiarioController",
+    "Method": "Create",
+    "RelativePath": "api/DetalleParteDiario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "detalleParteDiarioDTO",
+        "Type": "PROMCOSER_DOMAIN.Core.DTO.DetalleParteDiarioDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PROMCOSER_API.Controllers.DetalleParteDiarioController",
+    "Method": "GetDetalleById",
+    "RelativePath": "api/DetalleParteDiario/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PROMCOSER_API.Controllers.DetalleParteDiarioController",
+    "Method": "Update",
+    "RelativePath": "api/DetalleParteDiario/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "detalleParteDiarioDTO",
+        "Type": "PROMCOSER_DOMAIN.Core.DTO.DetalleParteDiarioDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PROMCOSER_API.Controllers.DetalleParteDiarioController",
+    "Method": "Delete",
+    "RelativePath": "api/DetalleParteDiario/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PROMCOSER_API.Controllers.DetalleParteDiarioController",
+    "Method": "GetDetallesByParteDiarioId",
+    "RelativePath": "api/DetalleParteDiario/ByParteDiario/{parteDiarioId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parteDiarioId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PROMCOSER_API.Controllers.DetalleParteDiariosController",
+    "Method": "GetDetalleParteDiario",
+    "RelativePath": "api/DetalleParteDiarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[PROMCOSER_DOMAIN.Core.Entities.DetalleParteDiario, PROMCOSER_DOMAIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PROMCOSER_API.Controllers.DetalleParteDiariosController",
+    "Method": "PostDetalleParteDiario",
+    "RelativePath": "api/DetalleParteDiarios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "detalleParteDiario",
+        "Type": "PROMCOSER_DOMAIN.Core.Entities.DetalleParteDiario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PROMCOSER_DOMAIN.Core.Entities.DetalleParteDiario",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PROMCOSER_API.Controllers.DetalleParteDiariosController",
+    "Method": "GetDetalleParteDiario",
+    "RelativePath": "api/DetalleParteDiarios/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PROMCOSER_DOMAIN.Core.Entities.DetalleParteDiario",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PROMCOSER_API.Controllers.DetalleParteDiariosController",
+    "Method": "PutDetalleParteDiario",
+    "RelativePath": "api/DetalleParteDiarios/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "detalleParteDiario",
+        "Type": "PROMCOSER_DOMAIN.Core.Entities.DetalleParteDiario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PROMCOSER_API.Controllers.DetalleParteDiariosController",
+    "Method": "DeleteDetalleParteDiario",
+    "RelativePath": "api/DetalleParteDiarios/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

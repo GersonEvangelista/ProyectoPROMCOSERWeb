@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|c:\\users\\mezam\\onedrive\\documentos\\esan\\2024-2\\desarrollo de aplicaciones web\\proyecto f web\\proyectopromcoserweb\\promcoser_api\\promcoser_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|solutionrelative:promcoser_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|c:\\users\\mezam\\onedrive\\documentos\\esan\\2024-2\\desarrollo de aplicaciones web\\proyecto f web\\proyectopromcoserweb\\promcoser_api\\promcoser_api\\promcoser_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|solutionrelative:promcoser_api\\promcoser_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|c:\\users\\mezam\\onedrive\\documentos\\esan\\2024-2\\desarrollo de aplicaciones web\\proyecto f web\\proyectopromcoserweb\\promcoser_api\\promcoser_api\\controllers\\detallepartediariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|solutionrelative:promcoser_api\\controllers\\detallepartediariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|c:\\users\\mezam\\onedrive\\documentos\\esan\\2024-2\\desarrollo de aplicaciones web\\proyecto f web\\proyectopromcoserweb\\promcoser_api\\promcoser_domain\\core\\services\\detallepartediarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|solutionrelative:promcoser_domain\\core\\services\\detallepartediarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|c:\\users\\mezam\\onedrive\\documentos\\esan\\2024-2\\desarrollo de aplicaciones web\\proyecto f web\\proyectopromcoserweb\\promcoser_api\\promcoser_domain\\core\\interfaces\\idetallepartediariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|solutionrelative:promcoser_domain\\core\\interfaces\\idetallepartediariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|c:\\users\\mezam\\onedrive\\documentos\\esan\\2024-2\\desarrollo de aplicaciones web\\proyecto f web\\proyectopromcoserweb\\promcoser_api\\promcoser_domain\\infrastructure\\repositories\\detallepartediariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|solutionrelative:promcoser_domain\\infrastructure\\repositories\\detallepartediariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|c:\\users\\mezam\\onedrive\\documentos\\esan\\2024-2\\desarrollo de aplicaciones web\\proyecto f web\\proyectopromcoserweb\\promcoser_api\\promcoser_domain\\core\\dto\\detallepartediariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|solutionrelative:promcoser_domain\\core\\dto\\detallepartediariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|c:\\users\\mezam\\onedrive\\documentos\\esan\\2024-2\\desarrollo de aplicaciones web\\proyecto f web\\proyectopromcoserweb\\promcoser_api\\promcoser_api\\controllers\\detallepartediarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|solutionrelative:promcoser_api\\controllers\\detallepartediarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|c:\\users\\mezam\\onedrive\\documentos\\esan\\2024-2\\desarrollo de aplicaciones web\\proyecto f web\\proyectopromcoserweb\\promcoser_api\\promcoser_domain\\infrastructure\\data\\promcosercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|solutionrelative:promcoser_domain\\infrastructure\\data\\promcosercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|c:\\users\\mezam\\onedrive\\documentos\\esan\\2024-2\\desarrollo de aplicaciones web\\proyecto f web\\proyectopromcoserweb\\promcoser_api\\promcoser_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|solutionrelative:promcoser_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|c:\\users\\mezam\\onedrive\\documentos\\esan\\2024-2\\desarrollo de aplicaciones web\\proyecto f web\\proyectopromcoserweb\\promcoser_api\\promcoser_domain\\core\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|solutionrelative:promcoser_domain\\core\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|c:\\users\\mezam\\onedrive\\documentos\\esan\\2024-2\\desarrollo de aplicaciones web\\proyecto f web\\proyectopromcoserweb\\promcoser_api\\promcoser_domain\\promcoser_domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|solutionrelative:promcoser_domain\\promcoser_domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetalleParteDiarioController.cs",
+              "DocumentMoniker": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_API\\Controllers\\DetalleParteDiarioController.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_API\\Controllers\\DetalleParteDiarioController.cs",
+              "ToolTip": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_API\\Controllers\\DetalleParteDiarioController.cs",
+              "RelativeToolTip": "PROMCOSER_API\\Controllers\\DetalleParteDiarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:59:41.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDetalleParteDiarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Core\\Interfaces\\IDetalleParteDiarioRepository.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_DOMAIN\\Core\\Interfaces\\IDetalleParteDiarioRepository.cs",
+              "ToolTip": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Core\\Interfaces\\IDetalleParteDiarioRepository.cs",
+              "RelativeToolTip": "PROMCOSER_DOMAIN\\Core\\Interfaces\\IDetalleParteDiarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:50:40.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetalleParteDiarioService.cs",
+              "DocumentMoniker": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Core\\Services\\DetalleParteDiarioService.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_DOMAIN\\Core\\Services\\DetalleParteDiarioService.cs",
+              "ToolTip": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Core\\Services\\DetalleParteDiarioService.cs",
+              "RelativeToolTip": "PROMCOSER_DOMAIN\\Core\\Services\\DetalleParteDiarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:46:14.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PROMCOSER_API",
+              "DocumentMoniker": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_API\\PROMCOSER_API.csproj",
+              "RelativeDocumentMoniker": "PROMCOSER_API\\PROMCOSER_API.csproj",
+              "ToolTip": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_API\\PROMCOSER_API.csproj",
+              "RelativeToolTip": "PROMCOSER_API\\PROMCOSER_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T05:29:07.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_API\\Program.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_API\\Program.cs",
+              "ToolTip": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_API\\Program.cs",
+              "RelativeToolTip": "PROMCOSER_API\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAASwBAAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:28:38.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetalleParteDiarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Core\\DTO\\DetalleParteDiarioDTO.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_DOMAIN\\Core\\DTO\\DetalleParteDiarioDTO.cs",
+              "ToolTip": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Core\\DTO\\DetalleParteDiarioDTO.cs",
+              "RelativeToolTip": "PROMCOSER_DOMAIN\\Core\\DTO\\DetalleParteDiarioDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:47:25.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetalleParteDiariosController.cs",
+              "DocumentMoniker": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_API\\Controllers\\DetalleParteDiariosController.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_API\\Controllers\\DetalleParteDiariosController.cs",
+              "ToolTip": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_API\\Controllers\\DetalleParteDiariosController.cs",
+              "RelativeToolTip": "PROMCOSER_API\\Controllers\\DetalleParteDiariosController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:32:44.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetalleParteDiarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Infrastructure\\Repositories\\DetalleParteDiarioRepository.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_DOMAIN\\Infrastructure\\Repositories\\DetalleParteDiarioRepository.cs",
+              "ToolTip": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Infrastructure\\Repositories\\DetalleParteDiarioRepository.cs",
+              "RelativeToolTip": "PROMCOSER_DOMAIN\\Infrastructure\\Repositories\\DetalleParteDiarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:25:53.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_API\\appsettings.json",
+              "RelativeDocumentMoniker": "PROMCOSER_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_API\\appsettings.json",
+              "RelativeToolTip": "PROMCOSER_API\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T05:26:42.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Core\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_DOMAIN\\Core\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Core\\Entities\\Cliente.cs",
+              "RelativeToolTip": "PROMCOSER_DOMAIN\\Core\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:24:37.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PromcoserContext.cs",
+              "DocumentMoniker": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Infrastructure\\Data\\PromcoserContext.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_DOMAIN\\Infrastructure\\Data\\PromcoserContext.cs",
+              "ToolTip": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Infrastructure\\Data\\PromcoserContext.cs",
+              "RelativeToolTip": "PROMCOSER_DOMAIN\\Infrastructure\\Data\\PromcoserContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:24:10.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PROMCOSER_DOMAIN",
+              "DocumentMoniker": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj",
+              "RelativeDocumentMoniker": "PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj",
+              "ToolTip": "C:\\Users\\mezam\\OneDrive\\Documentos\\ESAN\\2024-2\\DESARROLLO DE APLICACIONES WEB\\Proyecto F Web\\ProyectoPROMCOSERWeb\\PROMCOSER_API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj",
+              "RelativeToolTip": "PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T05:17:07.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
