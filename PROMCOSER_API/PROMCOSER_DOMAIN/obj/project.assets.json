@@ -4045,11 +4045,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\My Drive\\ESAN\\Ciclos\\Oficial\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Project\\PROMCOSER_API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj",
+      "projectUniqueName": "C:\\ESAN\\Project\\PROMCOSER_API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj",
       "projectName": "PROMCOSER_DOMAIN",
-      "projectPath": "G:\\My Drive\\ESAN\\Ciclos\\Oficial\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Project\\PROMCOSER_API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj",
+      "projectPath": "C:\\ESAN\\Project\\PROMCOSER_API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj",
       "packagesPath": "C:\\Users\\Gerson\\.nuget\\packages\\",
-      "outputPath": "G:\\My Drive\\ESAN\\Ciclos\\Oficial\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Project\\PROMCOSER_API\\PROMCOSER_DOMAIN\\obj\\",
+      "outputPath": "C:\\ESAN\\Project\\PROMCOSER_API\\PROMCOSER_DOMAIN\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gerson\\AppData\\Roaming\\NuGet\\NuGet.Config",

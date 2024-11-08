@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AAgt6i4c2OQwvQDOMxbIFiRdZq9H6l5xj5f8Rl+NX33bJ+9OgvMsvQFatTEKvfOdtpKUKY47cnORSUBL/7dv1g==",
+  "dgSpecHash": "cL/dV+nVIBYHeKJpiRTb9uJPweAvvWFklDPnRfbvH7yI8Y+jn4K94cRXwPS/dn7DQgYPM2mQ6oUL+HWLLSXW3g==",
   "success": true,
-  "projectFilePath": "G:\\My Drive\\ESAN\\Ciclos\\Oficial\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Project\\PROMCOSER_API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj",
+  "projectFilePath": "C:\\ESAN\\Project\\PROMCOSER_API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gerson\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Gerson\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

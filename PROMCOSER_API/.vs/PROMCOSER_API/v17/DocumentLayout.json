@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\My Drive\\ESAN\\Ciclos\\Oficial\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Project\\PROMCOSER_API\\",
+  "WorkspaceRootPath": "C:\\ESAN\\Project\\PROMCOSER_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|g:\\my drive\\esan\\ciclos\\oficial\\ciclo_8_esan\\courses\\desarrolloappweb\\project\\promcoser_api\\promcoser_domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|solutionrelative:promcoser_domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|c:\\esan\\project\\promcoser_api\\promcoser_api\\controllers\\personalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|solutionrelative:promcoser_api\\controllers\\personalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|c:\\esan\\project\\promcoser_api\\promcoser_domain\\infrastructure\\repositories\\personalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|solutionrelative:promcoser_domain\\infrastructure\\repositories\\personalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|c:\\esan\\project\\promcoser_api\\promcoser_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|solutionrelative:promcoser_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|c:\\esan\\project\\promcoser_api\\promcoser_domain\\core\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA168573-9AC9-4CDC-BE49-FB5EB5F3B343}|PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj|solutionrelative:promcoser_domain\\core\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|c:\\esan\\project\\promcoser_api\\promcoser_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F27CB7DE-D439-4C23-BB2B-29FB3B69B776}|PROMCOSER_API\\PROMCOSER_API.csproj|solutionrelative:promcoser_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +39,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "G:\\My Drive\\ESAN\\Ciclos\\Oficial\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Project\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Class1.cs",
-              "RelativeDocumentMoniker": "PROMCOSER_DOMAIN\\Class1.cs",
-              "ToolTip": "G:\\My Drive\\ESAN\\Ciclos\\Oficial\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Project\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Class1.cs",
-              "RelativeToolTip": "PROMCOSER_DOMAIN\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "PersonalController.cs",
+              "DocumentMoniker": "C:\\ESAN\\Project\\PROMCOSER_API\\PROMCOSER_API\\Controllers\\PersonalController.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_API\\Controllers\\PersonalController.cs",
+              "ToolTip": "C:\\ESAN\\Project\\PROMCOSER_API\\PROMCOSER_API\\Controllers\\PersonalController.cs",
+              "RelativeToolTip": "PROMCOSER_API\\Controllers\\PersonalController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwCoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T02:31:02.162Z",
+              "WhenOpened": "2024-11-06T23:25:09.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonalRepository.cs",
+              "DocumentMoniker": "C:\\ESAN\\Project\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Infrastructure\\Repositories\\PersonalRepository.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_DOMAIN\\Infrastructure\\Repositories\\PersonalRepository.cs",
+              "ToolTip": "C:\\ESAN\\Project\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Infrastructure\\Repositories\\PersonalRepository.cs",
+              "RelativeToolTip": "PROMCOSER_DOMAIN\\Infrastructure\\Repositories\\PersonalRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA3wCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:42:11.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ESAN\\Project\\PROMCOSER_API\\PROMCOSER_API\\Program.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_API\\Program.cs",
+              "ToolTip": "C:\\ESAN\\Project\\PROMCOSER_API\\PROMCOSER_API\\Program.cs",
+              "RelativeToolTip": "PROMCOSER_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:36:00.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ESAN\\Project\\PROMCOSER_API\\PROMCOSER_API\\appsettings.json",
+              "RelativeDocumentMoniker": "PROMCOSER_API\\appsettings.json",
+              "ToolTip": "C:\\ESAN\\Project\\PROMCOSER_API\\PROMCOSER_API\\appsettings.json",
+              "RelativeToolTip": "PROMCOSER_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T22:35:43.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\ESAN\\Project\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Core\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "PROMCOSER_DOMAIN\\Core\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\ESAN\\Project\\PROMCOSER_API\\PROMCOSER_DOMAIN\\Core\\Entities\\Cliente.cs",
+              "RelativeToolTip": "PROMCOSER_DOMAIN\\Core\\Entities\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:34:24.744Z",
               "EditorCaption": ""
             }
           ]
