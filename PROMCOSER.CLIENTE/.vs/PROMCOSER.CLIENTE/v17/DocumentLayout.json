@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A64CABC4-B3AD-417C-B65F-010748C2B850}|PROMCOSER.CLIENTE.DOMAIN\\PROMCOSER.CLIENTE.DOMAIN.csproj|c:\\users\\aaron\\onedrive\\escritorio\\universidad esan clases\\desarrollo web\\repos\\promcoser.cliente\\promcoser.cliente.domain\\infraestructure\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64CABC4-B3AD-417C-B65F-010748C2B850}|PROMCOSER.CLIENTE.DOMAIN\\PROMCOSER.CLIENTE.DOMAIN.csproj|solutionrelative:promcoser.cliente.domain\\infraestructure\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6339F57E-55EE-4899-8318-BE91A2156122}|PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.csproj|c:\\users\\aaron\\onedrive\\escritorio\\universidad esan clases\\desarrollo web\\repos\\promcoser.cliente\\promcoser.cliente\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6339F57E-55EE-4899-8318-BE91A2156122}|PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.csproj|solutionrelative:promcoser.cliente\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64CABC4-B3AD-417C-B65F-010748C2B850}|PROMCOSER.CLIENTE.DOMAIN\\PROMCOSER.CLIENTE.DOMAIN.csproj|c:\\users\\aaron\\onedrive\\escritorio\\universidad esan clases\\desarrollo web\\repos\\promcoser.cliente\\promcoser.cliente.domain\\core\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64CABC4-B3AD-417C-B65F-010748C2B850}|PROMCOSER.CLIENTE.DOMAIN\\PROMCOSER.CLIENTE.DOMAIN.csproj|solutionrelative:promcoser.cliente.domain\\core\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64CABC4-B3AD-417C-B65F-010748C2B850}|PROMCOSER.CLIENTE.DOMAIN\\PROMCOSER.CLIENTE.DOMAIN.csproj|c:\\users\\aaron\\onedrive\\escritorio\\universidad esan clases\\desarrollo web\\repos\\promcoser.cliente\\promcoser.cliente.domain\\core\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64CABC4-B3AD-417C-B65F-010748C2B850}|PROMCOSER.CLIENTE.DOMAIN\\PROMCOSER.CLIENTE.DOMAIN.csproj|solutionrelative:promcoser.cliente.domain\\core\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64CABC4-B3AD-417C-B65F-010748C2B850}|PROMCOSER.CLIENTE.DOMAIN\\PROMCOSER.CLIENTE.DOMAIN.csproj|c:\\users\\aaron\\onedrive\\escritorio\\universidad esan clases\\desarrollo web\\repos\\promcoser.cliente\\promcoser.cliente.domain\\core\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64CABC4-B3AD-417C-B65F-010748C2B850}|PROMCOSER.CLIENTE.DOMAIN\\PROMCOSER.CLIENTE.DOMAIN.csproj|solutionrelative:promcoser.cliente.domain\\core\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6339F57E-55EE-4899-8318-BE91A2156122}|PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.csproj|c:\\users\\aaron\\onedrive\\escritorio\\universidad esan clases\\desarrollo web\\repos\\promcoser.cliente\\promcoser.cliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6339F57E-55EE-4899-8318-BE91A2156122}|PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.csproj|solutionrelative:promcoser.cliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6339F57E-55EE-4899-8318-BE91A2156122}|PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.csproj|c:\\users\\aaron\\onedrive\\escritorio\\universidad esan clases\\desarrollo web\\repos\\promcoser.cliente\\promcoser.cliente\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6339F57E-55EE-4899-8318-BE91A2156122}|PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.csproj|solutionrelative:promcoser.cliente\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64CABC4-B3AD-417C-B65F-010748C2B850}|PROMCOSER.CLIENTE.DOMAIN\\PROMCOSER.CLIENTE.DOMAIN.csproj|c:\\users\\aaron\\onedrive\\escritorio\\universidad esan clases\\desarrollo web\\repos\\promcoser.cliente\\promcoser.cliente.domain\\core\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64CABC4-B3AD-417C-B65F-010748C2B850}|PROMCOSER.CLIENTE.DOMAIN\\PROMCOSER.CLIENTE.DOMAIN.csproj|solutionrelative:promcoser.cliente.domain\\core\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6339F57E-55EE-4899-8318-BE91A2156122}|PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.csproj|c:\\users\\aaron\\onedrive\\escritorio\\universidad esan clases\\desarrollo web\\repos\\promcoser.cliente\\promcoser.cliente\\controllers\\clientescontrollerscf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6339F57E-55EE-4899-8318-BE91A2156122}|PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.csproj|solutionrelative:promcoser.cliente\\controllers\\clientescontrollerscf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6339F57E-55EE-4899-8318-BE91A2156122}|PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.csproj|c:\\users\\aaron\\onedrive\\escritorio\\universidad esan clases\\desarrollo web\\repos\\promcoser.cliente\\promcoser.cliente\\promcoser.cliente.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6339F57E-55EE-4899-8318-BE91A2156122}|PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.csproj|solutionrelative:promcoser.cliente\\promcoser.cliente.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64CABC4-B3AD-417C-B65F-010748C2B850}|PROMCOSER.CLIENTE.DOMAIN\\PROMCOSER.CLIENTE.DOMAIN.csproj|c:\\users\\aaron\\onedrive\\escritorio\\universidad esan clases\\desarrollo web\\repos\\promcoser.cliente\\promcoser.cliente.domain\\core\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64CABC4-B3AD-417C-B65F-010748C2B850}|PROMCOSER.CLIENTE.DOMAIN\\PROMCOSER.CLIENTE.DOMAIN.csproj|solutionrelative:promcoser.cliente.domain\\core\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64CABC4-B3AD-417C-B65F-010748C2B850}|PROMCOSER.CLIENTE.DOMAIN\\PROMCOSER.CLIENTE.DOMAIN.csproj|c:\\users\\aaron\\onedrive\\escritorio\\universidad esan clases\\desarrollo web\\repos\\promcoser.cliente\\promcoser.cliente.domain\\core\\entities\\partediario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64CABC4-B3AD-417C-B65F-010748C2B850}|PROMCOSER.CLIENTE.DOMAIN\\PROMCOSER.CLIENTE.DOMAIN.csproj|solutionrelative:promcoser.cliente.domain\\core\\entities\\partediario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.DOMAIN\\Data\\PromcoserContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PROMCOSER.CLIENTE.DOMAIN\\Data\\PromcoserContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientesControllerSCF.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE\\Controllers\\ClientesControllerSCF.cs",
+              "RelativeDocumentMoniker": "PROMCOSER.CLIENTE\\Controllers\\ClientesControllerSCF.cs",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE\\Controllers\\ClientesControllerSCF.cs",
+              "RelativeToolTip": "PROMCOSER.CLIENTE\\Controllers\\ClientesControllerSCF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:34:52.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.DOMAIN\\Core\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "PROMCOSER.CLIENTE.DOMAIN\\Core\\Interfaces\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.DOMAIN\\Core\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "PROMCOSER.CLIENTE.DOMAIN\\Core\\Interfaces\\IClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:05:00.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "PROMCOSER.CLIENTE\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "PROMCOSER.CLIENTE\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwCUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:14:30.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.DOMAIN\\Core\\DTO\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "PROMCOSER.CLIENTE.DOMAIN\\Core\\DTO\\ClienteDTO.cs",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.DOMAIN\\Core\\DTO\\ClienteDTO.cs",
+              "RelativeToolTip": "PROMCOSER.CLIENTE.DOMAIN\\Core\\DTO\\ClienteDTO.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAwwCUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:30:34.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.DOMAIN\\Core\\Interfaces\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "PROMCOSER.CLIENTE.DOMAIN\\Core\\Interfaces\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.DOMAIN\\Core\\Interfaces\\IClienteRepository.cs",
+              "RelativeToolTip": "PROMCOSER.CLIENTE.DOMAIN\\Core\\Interfaces\\IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:14:56.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.DOMAIN\\Core\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "PROMCOSER.CLIENTE.DOMAIN\\Core\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.DOMAIN\\Core\\Services\\ClienteService.cs",
+              "RelativeToolTip": "PROMCOSER.CLIENTE.DOMAIN\\Core\\Services\\ClienteService.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwEwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:14:21.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.DOMAIN\\Core\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "PROMCOSER.CLIENTE.DOMAIN\\Core\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.DOMAIN\\Core\\Entities\\Cliente.cs",
+              "RelativeToolTip": "PROMCOSER.CLIENTE.DOMAIN\\Core\\Entities\\Cliente.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T23:08:47.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.DOMAIN\\Infraestructure\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "PROMCOSER.CLIENTE.DOMAIN\\Infraestructure\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.DOMAIN\\Infraestructure\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "PROMCOSER.CLIENTE.DOMAIN\\Infraestructure\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:31:14.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ParteDiario.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.DOMAIN\\Core\\Entities\\ParteDiario.cs",
+              "RelativeDocumentMoniker": "PROMCOSER.CLIENTE.DOMAIN\\Core\\Entities\\ParteDiario.cs",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.DOMAIN\\Core\\Entities\\ParteDiario.cs",
+              "RelativeToolTip": "PROMCOSER.CLIENTE.DOMAIN\\Core\\Entities\\ParteDiario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:11:09.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE\\Program.cs",
+              "RelativeDocumentMoniker": "PROMCOSER.CLIENTE\\Program.cs",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE\\Program.cs",
+              "RelativeToolTip": "PROMCOSER.CLIENTE\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:04:44.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE\\appsettings.json",
+              "RelativeDocumentMoniker": "PROMCOSER.CLIENTE\\appsettings.json",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE\\appsettings.json",
+              "RelativeToolTip": "PROMCOSER.CLIENTE\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T22:04:23.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PromcoserContext.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.DOMAIN\\Data\\PromcoserContext.cs",
+              "RelativeDocumentMoniker": "PROMCOSER.CLIENTE.DOMAIN\\Data\\PromcoserContext.cs",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.DOMAIN\\Data\\PromcoserContext.cs",
+              "RelativeToolTip": "PROMCOSER.CLIENTE.DOMAIN\\Data\\PromcoserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:51:35.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PROMCOSER.CLIENTE.csproj",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.csproj",
+              "RelativeDocumentMoniker": "PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.csproj",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Escritorio\\UNIVERSIDAD ESAN CLASES\\DESARROLLO WEB\\REPOS\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.csproj",
+              "RelativeToolTip": "PROMCOSER.CLIENTE\\PROMCOSER.CLIENTE.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T21:24:52.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@PROMCOSER.CLIENTE_HostAddress = http://localhost:5123
+
+GET {{PROMCOSER.CLIENTE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
