@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROMCOSER API - Rol- Ubigeo", "PROMCOSER API - Rol- Ubigeo\PROMCOSER API - Rol- Ubigeo.csproj", "{3618AAB3-8232-4345-9621-ED3E1735A72A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3618AAB3-8232-4345-9621-ED3E1735A72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3618AAB3-8232-4345-9621-ED3E1735A72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3618AAB3-8232-4345-9621-ED3E1735A72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3618AAB3-8232-4345-9621-ED3E1735A72A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5820F4F-4A6C-4C03-ABD9-19BD4374F67C}
+	EndGlobalSection
+EndGlobal

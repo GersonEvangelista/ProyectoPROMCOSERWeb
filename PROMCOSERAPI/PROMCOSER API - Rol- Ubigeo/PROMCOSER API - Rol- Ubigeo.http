@@ -1,0 +1,6 @@
+@PROMCOSER_API___Rol__Ubigeo_HostAddress = http://localhost:5082
+
+GET {{PROMCOSER_API___Rol__Ubigeo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
