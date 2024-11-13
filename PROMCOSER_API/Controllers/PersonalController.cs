@@ -32,7 +32,8 @@ namespace PROMCOSER_API.Controllers
             //TODO: Mejorar el userService con DTO
             var result = await _personalService.SignIn(userAuthDTO.Username, userAuthDTO.Password);
             if (result == null) return NotFound();
-            return Ok(result);
+            
+            return Ok(true);
         }
 
     }
