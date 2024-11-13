@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ESAN\\ProjectWEB\\API\\ProyectoPROMCOSERWEB__API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj": {}
+    "C:\\ESAN\\ProjectWEB\\API\\ProyectoPROMCOSERWeb\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj": {}
   },
   "projects": {
-    "C:\\ESAN\\ProjectWEB\\API\\ProyectoPROMCOSERWEB__API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj": {
+    "C:\\ESAN\\ProjectWEB\\API\\ProyectoPROMCOSERWeb\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ESAN\\ProjectWEB\\API\\ProyectoPROMCOSERWEB__API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj",
+        "projectUniqueName": "C:\\ESAN\\ProjectWEB\\API\\ProyectoPROMCOSERWeb\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj",
         "projectName": "PROMCOSER_DOMAIN",
-        "projectPath": "C:\\ESAN\\ProjectWEB\\API\\ProyectoPROMCOSERWEB__API\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj",
+        "projectPath": "C:\\ESAN\\ProjectWEB\\API\\ProyectoPROMCOSERWeb\\PROMCOSER_DOMAIN\\PROMCOSER_DOMAIN.csproj",
         "packagesPath": "C:\\Users\\Gerson\\.nuget\\packages\\",
-        "outputPath": "C:\\ESAN\\ProjectWEB\\API\\ProyectoPROMCOSERWEB__API\\PROMCOSER_DOMAIN\\obj\\",
+        "outputPath": "C:\\ESAN\\ProjectWEB\\API\\ProyectoPROMCOSERWeb\\PROMCOSER_DOMAIN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,26 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

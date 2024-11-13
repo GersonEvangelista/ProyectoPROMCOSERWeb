@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PROMCOSER_DOMAIN
-build_property.ProjectDir = C:\ESAN\ProjectWEB\API\ProyectoPROMCOSERWEB__API\PROMCOSER_DOMAIN\
+build_property.ProjectDir = C:\ESAN\ProjectWEB\API\ProyectoPROMCOSERWeb\PROMCOSER_DOMAIN\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

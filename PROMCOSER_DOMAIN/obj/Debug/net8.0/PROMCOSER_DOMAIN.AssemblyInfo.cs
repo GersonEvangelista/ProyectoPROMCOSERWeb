@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PROMCOSER_DOMAIN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c8b2d50ee5a70f151c8b65e96faa8b257beb3f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PROMCOSER_DOMAIN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PROMCOSER_DOMAIN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
