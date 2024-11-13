@@ -18,23 +18,23 @@ namespace PROMCOSER_DOMAIN.CORE.Services
         {
             _personalRepository = personalRepository;
         }
-        public async Task<UserAuthDTO> SignIn(string username, string password)
+        public async Task<Personal> SignIn(string username, string password)
         {
             var user = await _personalRepository.SignIn(username, password);
             if (user == null) return null;
 
-
+            /*
             //var token = _jwtService.GenerateJWToken(user);
-            //var sendEmail = false;
-            var userDTO = new UserAuthDTO()
+            var estado = true;
+            var userDTO = new UserRequestAuthDTO()
             {
-                Username = username,
-                Password = password,
+                //Username = username,
+                //Password = password,
                 //Token = token,
-                //IsEmailSent = sendEmail
+                Estado = estado
             };
-
-            return userDTO;
+            */
+            return user;
         }
 
         public async Task<bool> SignUp(UserRequestAuthDTO userDTO)
