@@ -49,6 +49,8 @@ namespace PROMCOSER_DOMAIN.CORE.Services
             user.Estado = userDTO.Estado;
             user.FechNacimiento = userDTO.FechNacimiento;
             user.IdUbigeo = userDTO.IdUbigeo;
+            user.Username = userDTO.Username;
+            user.Password = userDTO.Password;
             return await _personalRepository.SignUp(user);
         }
 
