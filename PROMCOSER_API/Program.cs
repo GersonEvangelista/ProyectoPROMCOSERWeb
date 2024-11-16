@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using PROMCOSER_DOMAIN.CORE.Interfaces;
 using PROMCOSER_DOMAIN.CORE.Services;
+using PROMCOSER_DOMAIN.Infrastructure.Repositories;
 using PROMCOSER_DOMAIN.INFRASTRUCTURE.Data;
 using PROMCOSER_DOMAIN.INFRASTRUCTURE.Repositories;
 using UESAN.PROMCOSER_DOMAIN.DOMAIN.Infrastructure.Shared;
@@ -16,6 +17,7 @@ builder.Services
 
 builder.Services.AddTransient<IPersonalRepository, PersonalRepository>();
 builder.Services.AddTransient<IPersonalService, PersonalService>();
+builder.Services.AddTransient<IMaquinariaRepository, MaquinariaRepository>();
 
 builder.Services.AddSharedInfrastructure(_config);
 

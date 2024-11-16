@@ -13,13 +13,13 @@ public partial class Maquinaria
 
     public string? Marca { get; set; }
 
-    public int? AnioCompra { get; set; }
+    public int AnioCompra { get; set; }
 
-    public decimal? HorometroCompra { get; set; }
+    public decimal HorometroCompra { get; set; }
 
-    public decimal? HorometroActual { get; set; }
+    public decimal HorometroActual { get; set; }
 
-    public bool? Estado { get; set; }
+    public bool Estado { get; set; }
 
     public virtual ICollection<ParteDiario> ParteDiario { get; set; } = new List<ParteDiario>();
 }

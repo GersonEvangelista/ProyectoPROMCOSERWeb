@@ -30,5 +30,68 @@ namespace PROMCOSER_DOMAIN.INFRASTRUCTURE.Repositories
             int rows = await _context.SaveChangesAsync();
             return rows > 0;
         }
+        public async Task<IEnumerable<Personal>> GetOperadores()
+        {
+            return await _context.Personal.Where(u => u.IdRol == 2).ToListAsync();
+        }
+
+        //ARON
+        public async Task<IEnumerable<Personal>> GetPersonal()
+        {
+            var personal = await _context.Personal.ToListAsync();
+            return personal;
+        }
+
+        //Get Personal by ID
+        public async Task<Personal> GetPersonalById(int id)
+        {
+            var personal = await _context
+                    .Personal
+                    .Where(c => c.IdPersonal == id)
+                    .FirstOrDefaultAsync();
+            return personal;
+        }
+
+        //Create Personal
+        public async Task<int> Insert(Personal personal)
+        {
+            personal.Estado = true;
+            await _context.Personal.AddAsync(personal);
+            int rows = await _context.SaveChangesAsync();
+
+            if (rows > 0)
+            {
+                return (int)personal.IdPersonal;
+            }
+            else
+            {
+                return -1;
+            }
+
+        }
+
+        //Update personal
+        public async Task<bool> Update(Personal personal)
+        {
+            _context.Personal.Update(personal);
+            int rows = await _context.SaveChangesAsync();
+            return rows > 0;
+        }
+
+        // Delete personal
+        public async Task<bool> Delete(int id)
+        {
+            var personal = await _context
+                            .Personal
+                            .FirstOrDefaultAsync(c => c.IdPersonal == id);
+
+            if (personal == null) return false;
+
+            // Eliminar el objeto de la base de datos
+            _context.Personal.Remove(personal);
+            int rows = await _context.SaveChangesAsync();
+            return (rows > 0);
+        }
+
     }
 }

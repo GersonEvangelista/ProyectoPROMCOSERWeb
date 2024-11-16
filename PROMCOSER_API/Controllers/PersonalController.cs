@@ -36,6 +36,61 @@ namespace PROMCOSER_API.Controllers
             return Ok(true);
         }
 
+        [HttpGet("GetOperadores")]
+        public async Task<IActionResult> GetOperadores()
+        {
+            var operadores = await _personalService.GetOperadores();
+            return Ok(operadores);
+        }
+        //ARON
+        [HttpGet]
+        public async Task<IActionResult> GetPersonal()
+        {
+            var personal = await _personalService.GetPersonal();
+            return Ok(personal);
+        }
+
+        [HttpGet("GetPersonalDialog")]
+        public async Task<IActionResult> GetPersonalDialog()
+        {
+            var personal = await _personalService.GetPersonalDialog();
+            return Ok(personal);
+        }
+
+
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetPersonalById(int id)
+        {
+            var personal = await _personalService.GetPersonalyById(id);
+            if (personal == null)
+                return NotFound();
+            return Ok(personal);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Create([FromBody] PersonalDTOfrontEnd2 personalDTO)
+        {
+            int personalId = await _personalService.Insert(personalDTO);
+            return Ok(personalId);
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Update(int id, [FromBody] PersonalDTOfrontEnd2 personalDTO)
+        {
+            if (id != personalDTO.IdPersonal) return BadRequest();
+            var result = await _personalService.Update(personalDTO);
+            if (!result) return NotFound();
+            return Ok(result);
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var result = await _personalService.Delete(id);
+            if (!result) return NotFound();
+            return Ok(result);
+        }
+
     }
 
     
