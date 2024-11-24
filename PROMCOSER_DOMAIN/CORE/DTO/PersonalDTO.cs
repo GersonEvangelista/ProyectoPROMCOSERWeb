@@ -40,6 +40,13 @@ namespace PROMCOSER_DOMAIN.CORE.DTO
             public string? Password { get; set; }
         }
 
+        public class UserToken
+        {
+            public string? Token { get; set; }
+            public int? IdRol { get; set; }
+
+        }
+
         //ARON
         public class PersonalDTOfrontEnd
         {

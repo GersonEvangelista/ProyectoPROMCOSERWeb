@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using PROMCOSER_DOMAIN.CORE.Interfaces;
 using static PROMCOSER_DOMAIN.CORE.DTO.PersonalDTO;
@@ -33,7 +34,7 @@ namespace PROMCOSER_API.Controllers
             var result = await _personalService.SignIn(userAuthDTO.Username, userAuthDTO.Password);
             if (result == null) return NotFound();
             
-            return Ok(true);
+            return Ok(result);
         }
 
         [HttpGet("GetOperadores")]

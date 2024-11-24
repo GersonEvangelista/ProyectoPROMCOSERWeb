@@ -6,7 +6,7 @@ namespace PROMCOSER_DOMAIN.CORE.Interfaces
 {
     public interface IPersonalService
     {
-        Task<Personal> SignIn(string username, string password);
+        Task<UserToken> SignIn(string username, string password);
         Task<bool> SignUp(UserRequestAuthDTO userDTO);
         Task<IEnumerable<Personal>> GetOperadores();
         Task<bool> Delete(int id);

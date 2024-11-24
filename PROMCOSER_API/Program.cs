@@ -18,6 +18,8 @@ builder.Services
 builder.Services.AddTransient<IPersonalRepository, PersonalRepository>();
 builder.Services.AddTransient<IPersonalService, PersonalService>();
 builder.Services.AddTransient<IMaquinariaRepository, MaquinariaRepository>();
+builder.Services.AddTransient<IParteDiarioRepository, ParteDiarioRepository>();
+builder.Services.AddTransient<IDetalleParteDiarioRepository, DetalleParteDiarioRepository>();
 
 builder.Services.AddSharedInfrastructure(_config);
 

@@ -12,11 +12,11 @@ namespace PROMCOSER_API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class DetalleParteDiariosController : ControllerBase
+    public class DetalleParteDiariosConSController : ControllerBase
     {
         private readonly PromcoserContext _context;
 
-        public DetalleParteDiariosController(PromcoserContext context)
+        public DetalleParteDiariosConSController(PromcoserContext context)
         {
             _context = context;
         }

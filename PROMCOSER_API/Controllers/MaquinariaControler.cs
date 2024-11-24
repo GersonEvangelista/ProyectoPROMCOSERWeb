@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using PROMCOSER_DOMAIN.Core.DTO;
 using PROMCOSER_DOMAIN.CORE.Entities;
@@ -8,6 +9,7 @@ namespace PROMCOSER_API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class MaquinariaController : ControllerBase
     {
         private readonly IMaquinariaRepository _maquinariaRepository;

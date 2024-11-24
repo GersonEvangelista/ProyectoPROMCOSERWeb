@@ -13,28 +13,27 @@ namespace PROMCOSER_DOMAIN.CORE.Services
     public class PersonalService : IPersonalService
     {
         private readonly IPersonalRepository _personalRepository;
+        private readonly IJWTService _jWTService; //PARA TOKEN
 
-        public PersonalService(IPersonalRepository personalRepository)
+        public PersonalService(IPersonalRepository personalRepository, IJWTService jWTService)
         {
             _personalRepository = personalRepository;
+            _jWTService = jWTService; //PARA TOKEN
         }
-        public async Task<Personal> SignIn(string username, string password)
+        public async Task<UserToken> SignIn(string username, string password)
         {
             var user = await _personalRepository.SignIn(username, password);
             if (user == null) return null;
 
-            /*
-            //var token = _jwtService.GenerateJWToken(user);
-            var estado = true;
-            var userDTO = new UserRequestAuthDTO()
+            var token = _jWTService.GenerateJWToken(user);
+
+            var userDTO = new UserToken()
             {
-                //Username = username,
-                //Password = password,
-                //Token = token,
-                Estado = estado
+                Token = token,
+                IdRol = user.IdRol
             };
-            */
-            return user;
+            
+            return userDTO;
         }
 
         public async Task<bool> SignUp(UserRequestAuthDTO userDTO)
