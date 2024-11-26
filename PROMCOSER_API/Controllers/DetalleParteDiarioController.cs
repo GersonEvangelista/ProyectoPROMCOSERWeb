@@ -1,8 +1,10 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using PROMCOSER_DOMAIN.CORE.DTO;
 using PROMCOSER_DOMAIN.CORE.Entities;
 using PROMCOSER_DOMAIN.CORE.Interfaces;
+using PROMCOSER_DOMAIN.INFRASTRUCTURE.Data;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -15,6 +17,7 @@ namespace PROMCOSER_API.Controllers
     public class DetalleParteDiarioController : ControllerBase
     {
         private readonly IDetalleParteDiarioRepository _detalleParteDiarioRepository;
+        private readonly PromcoserContext _context;
 
         public DetalleParteDiarioController(IDetalleParteDiarioRepository detalleParteDiarioRepository)
         {
@@ -141,5 +144,6 @@ namespace PROMCOSER_API.Controllers
                 return StatusCode(500, $"Error interno del servidor: {ex.Message}");
             }
         }
+
     }
 }

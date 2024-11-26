@@ -104,5 +104,22 @@ namespace PROMCOSER_API.Controllers
         {
             return _context.DetalleParteDiario.Any(e => e.IdDetalleParteDiario == id);
         }
+
+        // GET: api/DetalleParteDiarios/ParteDiario/5
+        [HttpGet("ParteDiario/{idParteDiario}")]
+        public async Task<ActionResult<IEnumerable<DetalleParteDiario>>> GetDetallesByParteDiarioId(int idParteDiario)
+        {
+            var detalles = await _context.DetalleParteDiario
+                .Where(d => d.IdParteDiario == idParteDiario)
+                .ToListAsync();
+
+            if (detalles == null || !detalles.Any())
+            {
+                return NotFound($"No se encontraron detalles para el Parte Diario con ID {idParteDiario}");
+            }
+
+            return detalles;
+        }
+
     }
 }
