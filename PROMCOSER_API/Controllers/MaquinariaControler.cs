@@ -9,7 +9,7 @@ namespace PROMCOSER_API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    //[Authorize]
     public class MaquinariaController : ControllerBase
     {
         private readonly IMaquinariaRepository _maquinariaRepository;

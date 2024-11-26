@@ -13,7 +13,6 @@ namespace PROMCOSER_API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
     public class ClientesController : ControllerBase
     {
         private readonly PromcoserContext _context;

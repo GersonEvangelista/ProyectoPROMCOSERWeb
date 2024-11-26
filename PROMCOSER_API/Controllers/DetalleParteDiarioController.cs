@@ -13,7 +13,7 @@ namespace PROMCOSER_API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    //[Authorize]
     public class DetalleParteDiarioController : ControllerBase
     {
         private readonly IDetalleParteDiarioRepository _detalleParteDiarioRepository;

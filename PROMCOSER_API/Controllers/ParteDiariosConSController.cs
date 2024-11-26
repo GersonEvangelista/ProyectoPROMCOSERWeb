@@ -13,7 +13,7 @@ namespace PROMCOSER_API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    //[Authorize]
     public class ParteDiariosController : ControllerBase
     {
         private readonly PromcoserContext _context;
