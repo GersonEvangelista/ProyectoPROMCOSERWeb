@@ -179,6 +179,12 @@ namespace PROMCOSER_DOMAIN.CORE.Services
             return result;
         }
 
+        public async Task<bool> LogicalDelete(int id)
+        {
+            var result = await _personalRepository.LogicalDelete(id);
+            return result;
+        }
+
     }
 }
 

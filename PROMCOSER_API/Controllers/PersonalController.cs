@@ -92,6 +92,14 @@ namespace PROMCOSER_API.Controllers
             return Ok(result);
         }
 
+        [HttpDelete("{id}/logical-delete")]
+        public async Task<IActionResult> LogicalDelete(int id)
+        {
+            var result = await _personalService.LogicalDelete(id);
+            if (!result) return NotFound();
+            return Ok(result);
+        }
+
     }
 
     

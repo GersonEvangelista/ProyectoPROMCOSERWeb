@@ -12,5 +12,6 @@ namespace PROMCOSER_DOMAIN.CORE.Interfaces
         Task<int> Insert(Personal personal);
         Task<bool> Update(Personal personal);
         Task<bool> Delete(int id);
+        Task<bool> LogicalDelete(int id);
     }
 }

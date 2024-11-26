@@ -55,7 +55,22 @@ namespace PROMCOSER_DOMAIN.INFRASTRUCTURE.Repositories
         //Create Personal
         public async Task<int> Insert(Personal personal)
         {
+            bool dniExists = await _context.Personal.AnyAsync(p => p.Dni == personal.Dni);
+            if (dniExists)
+            {
+                // Retorna -2 si el DNI ya está en uso
+                return -2;
+            }
+
+            // Verificar si el Correo ya existe
+            bool correoExists = await _context.Personal.AnyAsync(p => p.Correo == personal.Correo);
+            if (correoExists)
+            {
+                // Retorna -3 si el Correo ya está en uso
+                return -3;
+            }
             personal.Estado = true;
+
             await _context.Personal.AddAsync(personal);
             int rows = await _context.SaveChangesAsync();
 
@@ -89,6 +104,19 @@ namespace PROMCOSER_DOMAIN.INFRASTRUCTURE.Repositories
 
             // Eliminar el objeto de la base de datos
             _context.Personal.Remove(personal);
+            int rows = await _context.SaveChangesAsync();
+            return (rows > 0);
+        }
+
+        //Logilcal Delete personal
+        public async Task<bool> LogicalDelete(int id)
+        {
+            var personal = await _context
+                .Personal
+                .FirstOrDefaultAsync(c => c.IdPersonal == id);
+            if (personal == null) return false;
+
+            personal.Estado = false;
             int rows = await _context.SaveChangesAsync();
             return (rows > 0);
         }

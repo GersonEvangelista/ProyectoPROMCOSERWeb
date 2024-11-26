@@ -15,6 +15,7 @@ namespace PROMCOSER_DOMAIN.CORE.Interfaces
         Task<PersonalDTOfrontEnd2> GetPersonalyById(int id);
         Task<int> Insert(PersonalDTOfrontEnd2 personalDTO);
         Task<bool> Update(PersonalDTOfrontEnd2 personalDTO);
+        Task<bool> LogicalDelete(int id);
 
     }
 }
